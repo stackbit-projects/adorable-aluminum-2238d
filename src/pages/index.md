@@ -11,7 +11,7 @@ sections:
       - label: Contact Us
         url: /contact
         style: secondary
-    align: right
+    align: center
     image: images/hero.svg
     image_position: right
     has_background: true

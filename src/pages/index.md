@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Gaining Integrity
+    title: Gaining Integrity Family Therapy & Coaching
     subtitle: Subtitle
     actions:
       - label: Learn More

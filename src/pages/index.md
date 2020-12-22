@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Gaining Integrity
-    subtitle: ''
+    subtitle: Subtitle
     actions:
       - label: Learn More
         url: /features
